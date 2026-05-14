@@ -109,7 +109,7 @@ Peers may be banned if their performance score is too low, or if an objectively 
 
 Banned peers will be persisted to the same data-store as the peerstore records.
 
-TODO: the connection gater does currently not gate by IP address on the dial Accept-callback.
+TODO: the connection gater currently does not gate by IP address on the dial accept callback.
 
 #### Transport security
 
